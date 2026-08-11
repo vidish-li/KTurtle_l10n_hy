@@ -1,0 +1,1428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kturtle\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"PO-Revision-Date: 2013-01-31 00:30+0400\n"
+"Last-Translator: Davit <nikdavnik@mail.ru>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : "
+"n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+msgid " INS "
+msgstr "ՏԵՂԱԴՐԵԼ"
+
+msgid " Line: %1 Column: %2 "
+msgstr "Տող: %1 Սյուն: %2"
+
+msgid " OVR "
+msgstr "ՓՈԽԵԼ"
+
+msgid "\"%1\" <%2>"
+msgstr "«%1» (%2)"
+
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+msgid "&Abort"
+msgstr "&Վերջացնել"
+
+msgid "&Canvas"
+msgstr "&Կտավ"
+
+msgid "&Color Picker..."
+msgstr "&Գույնի ընտրություն..."
+
+msgid "&Copy to clipboard"
+msgstr "&Կրկնօրինակել բուֆերի մեջ"
+
+msgid "&Direction Chooser..."
+msgstr "&Ուղղության ընտրություն..."
+
+msgid "&Discard Changes"
+msgstr "&Ջնջել փոփոխությունները"
+
+msgid "&Edit"
+msgstr "&Խմբագրել"
+
+msgid "&Editor"
+msgstr "&Կոդի խմբագրիչ"
+
+msgid "&Examples"
+msgstr "&Օրինակներ"
+
+msgid "&File"
+msgstr "&Նիշք"
+
+msgid "&Help"
+msgstr "&Տեղեկություն"
+
+msgid "&Inspector"
+msgstr "&Հսկիչ"
+
+msgid "&New direction:"
+msgstr "&Նոր ուղղություն:"
+
+msgid "&Paste to editor"
+msgstr "&Տեղադրել խմբագրիչի մեջ"
+
+# msgid "&Pause"
+# msgstr "&Դատար"
+
+msgid "&Previous direction:"
+msgstr "&Նախորդ ուղղությունը"
+
+msgid "&Print Canvas..."
+msgstr "&Կտավի տպում..."
+
+msgid "&Run"
+msgstr "&Կատարել"
+
+msgid "&Run Speed"
+msgstr "Կատարման &արագություն"
+
+msgid "&Script Language"
+msgstr "&Հրամանների լեզուն"
+
+msgid "&Settings"
+msgstr "&Կարգավորումներ"
+
+msgid "&Tools"
+msgstr "&Գործիքներ"
+
+msgid "'And' needs two variables"
+msgstr "«և» օպերատորը պահանջում է երկու փոփոխական "
+
+msgid "'Or' needs two variables"
+msgstr "«կամ» օպերատորը պահանջում է երկու փոփոխական "
+
+msgid "'for' was called wrongly"
+msgstr " «համար» հրամանի սխալ կանչ"
+
+msgid "<comment>"
+msgstr "(մեկնաբանություն)"
+
+msgid "<nothing under cursor>"
+msgstr "<ցուցիչի տակ ոչինչ չկա>"
+
+msgid "<number>"
+msgstr "(համար)"
+
+msgid "<p style='white-space:pre'><b>ERROR:</b> %1</p>"
+msgstr "<p style='white-space:pre'><b>Սխալ:</b> %1</p>"
+
+msgid "<string>"
+msgstr "(տող)"
+
+msgid "<variable>"
+msgstr "(փոփոխական)"
+
+msgctxt "@info:status the application is ready for commands"
+msgid "Ready"
+msgstr "Պատրաստ է"
+
+msgctxt "@option:radio"
+msgid "&Full Speed"
+msgstr "&Լրիվ արագություն"
+
+msgctxt "@option:radio"
+msgid "Full Speed (&no highlighting and inspector)"
+msgstr "&Լրիվ արագություն (արանց ընդգծման և հսկիչի)"
+
+msgctxt "@option:radio"
+msgid "S&lower"
+msgstr "&Դանդաղ"
+
+msgctxt "@option:radio"
+msgid "S&tep-by-Step"
+msgstr "&Քայլ առ քայլ"
+
+msgctxt "@option:radio"
+msgid "Sl&owest"
+msgstr "&Շատ դանդաղ"
+
+msgctxt "@option:radio choose the slow speed"
+msgid "&Slow"
+msgstr "&Դանդաղեցված"
+
+msgid "A comma was expected here..."
+msgstr "Սպասվում էր ստորակետ։"
+
+msgid "ASSERT failed"
+msgstr "Ստուգող պայմանը չի կատարվում"
+
+msgid "Abort: Stop executing program"
+msgstr "Ընդհատել ծրագրի կատարումը"
+
+msgid "All files"
+msgstr "Բոլոր նիշքերը"
+
+msgid "Amount blue:"
+msgstr "Կապույտ:"
+
+msgid "Amount green:"
+msgstr "Կանաչ:"
+
+msgid "Amount red:"
+msgstr "Կարմիր:"
+
+msgid "An unknown function named '%1' was called"
+msgstr "«%1» անհայտ գործողության կանչ"
+
+msgid "Can't do a sqrt of a negative number"
+msgstr "Չի կարելի օգտագործել sqrt բացասական թվերի համար"
+
+msgid ""
+"Canvas: This is where the turtle moves and draws when the program is running"
+msgstr "Կտավ: տարածք, որի վրա կրիան տեղափոխվում և նկարում է"
+
+msgid "Cies Breijs"
+msgstr "Cies Breijs"
+
+msgid "Color Picker: Show the color picker dialog"
+msgstr "Գույնի ընտրություն։ Պատկերել գույնի ընտրության պատուհանը"
+
+msgid "Command &type:"
+msgstr "&Հրամանի  տեսակ:"
+
+msgid "Console"
+msgstr "Հրաման "
+
+msgid "Console:"
+msgstr "Հրաման:"
+
+msgid ""
+"Console: quickly run single commands -- write a command here and press enter."
+msgstr "Մի հրամանի կատարում: մուտքագրեք հրամանը և սեղմեք Enter."
+
+msgid "Context Help: Get help on the command under the cursor"
+msgstr ""
+"Ստանալ տեղեկություն։ Ստանալ տեղեկություն ցուցիչի տակ եղած հրամանի մասին"
+
+msgid "Continue searching backwards through the code in the editor"
+msgstr "Շարունակել որոնումը խմբագրիչի սկզբից"
+
+msgid "Continue searching through the code in the editor"
+msgstr "Շարունակել որոնումը խմբագրիչի մեջ"
+
+msgid "Copy the selected text to the clipboard"
+msgstr "Կրկնօրինակել ընդգծված տեքստը բուֆերի մեջ"
+
+msgid "Copy: Copy the selected text to the clipboard"
+msgstr "Կրկնօրինակել։ Կրկնօրինակել ընդգծված տեքստը բուֆերի մեջ"
+
+msgid "Core developer"
+msgstr "Գլխավոր մշակող"
+
+msgid "Could not change the language to %1."
+msgstr "Հնարավոր չէ փոխել կոդի լեզուն %1."
+
+msgid "Could not understand '%1'"
+msgstr "Հնարավոր չէ մշակել «%1»"
+
+msgid "Create a new file"
+msgstr "Ստեղծել նոր նիշք"
+
+msgid "Cut the selected text to the clipboard"
+msgstr "Տեղափոխել ընդգծված տեքստը բուֆերի մեջ"
+
+msgid "Cut: Cut the selected text to the clipboard"
+msgstr "Տեղափոխել։ Տեղափոխել ընդգծված տեքստը բուֆերի մեջ"
+
+msgid "Did not expect '%1', instead expected a closing parenthesis, ')'"
+msgstr "Նշված չէ փակող փակագիծը «)», ստացված «%1»"
+
+msgid "Did not expect '%1', instead expected the line to end after %2"
+msgstr "Նշված  է  «%2» տողը մինչև վերջ, «%1» տողի փոխարեն"
+
+msgid "Direction Chooser: Show the direction chooser dialog"
+msgstr "Ուղղության ընտրություն։ Պատկերել ուղղու ընտրության պատուհանը"
+
+msgid "E&rrors"
+msgstr "&Սխալներ"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "nikdavnik@mail.ru"
+
+msgid "Editor: Write your KTurtle commands here"
+msgstr "խմբագրիչ։ Մուտքագրեք Կրիայի մրամանները այստեղ  "
+
+msgid "English [built in]"
+msgstr "Անգլերեն (սկզբնական)"
+
+msgid "Execute"
+msgstr "Կատարել հրամանը"
+
+msgid "Execute the program"
+msgstr "Կատարել ծրագիրը"
+
+msgid "Execute the program, or use the drop down menu to select the run speed"
+msgstr "Կատարել ծրագիրը կամ օգտվել ցանկից կատարման արագությունը ընտրելու համար"
+
+msgid "Execute: Executes the current line in the console"
+msgstr "Կատարել տրված հրամանը"
+
+msgid "Expected 'to' after 'for'"
+msgstr "Չկա «to» հրամանը «for» հրամանից հետո"
+
+msgid "Expected a command, instead got '%1'"
+msgstr "Սպասվում էր հրաման,  «%1» ստացվածի փոխարեն"
+
+msgid "Expected a name for a command after 'learn' command"
+msgstr "Չի տրված հրամանի անունը «learn» հրամանից հետո"
+
+msgid "Expected a scope after the 'learn' command"
+msgstr "«սովորիր» հրամանից հետո նշված չէ ֆունկցիայի կոդը"
+
+msgid "Expected an assignment, '=', after the variable '%1'"
+msgstr " «%1» փոփոխականից հետո պետք է նշել «=»"
+
+msgid "Export the contents of the editor as HTML"
+msgstr "Արտածել խմբագրիչի պարունակությաունը HTML էջ"
+
+msgid "Export the current canvas to Scalable Vector Graphics"
+msgstr "Կտավի արտածում վեկտորական նկարի SVG"
+
+msgid "Export the current canvas to a PNG raster image"
+msgstr "Արտածել կտավը պատկերային նկարի PNG"
+
+msgid "Export to &Drawing (SVG)..."
+msgstr "&Նկարի արտածում (SVG)..."
+
+msgid "Export to &HTML..."
+msgstr "&Արտածել HTML ֆորմատով..."
+
+msgid "Export to &Image (PNG)..."
+msgstr " &Նկարի արտածում (PNG)..."
+
+msgid "Export to HTML: Export the contents of the editor as HTML"
+msgstr "Արտածել HTML: Արտածել խմբագրիչի պարունակությաունը HTML էջ։"
+
+msgid "Export to PNG: Export the current canvas to a PNG raster image"
+msgstr "Արտածում PNG: Արտածել կտավը պատկերային նկարի PNG"
+
+msgid "Export to SVG: Export the current canvas to Scalable Vector Graphics"
+msgstr "Արտածում SVG: эԿտավի արտածում վեկտորական նկարի SVG."
+
+msgid "File or URL to open (in the GUI mode)"
+msgstr "Բացել նիշքը կամ URL հասցեն (գրաֆիկական ինտերֆեյսի ռեժիմում)"
+
+msgid "Find Next: Continue searching through the code in the editor"
+msgstr "Որոնել հաջորդը։ Շարունակել որոնումը խմբագրիչի մեջ"
+
+msgid ""
+"Find Previous: Continue searching backwards through the code in the editor"
+msgstr "Որոնել նախորդը։ Շարունակել որոնումը խմբագրիչի սկզբից"
+
+msgid "Find: Search through the code in the editor"
+msgstr "Որոնում։ Որոնում խմբագրիչի մեջ, կոդի միջոցով"
+
+msgid "Full Speed: Run the program at full speed"
+msgstr "Լրիվ արագություն։ Կատարել ծրագիրը լրիվ արագությամբ"
+
+msgid ""
+"Full Speed: Run the program at full speed, with highlighting and inspector "
+"disabled"
+msgstr ""
+"Լրիվ արագություն։ Կատարել ծրագիրը լրիվ արագություն, արանց ընդգծման և հսկիչի"
+
+msgid "Functions"
+msgstr "Ֆունկցիաներ"
+
+msgid "Get help on the command under the cursor"
+msgstr "Ստանալ տեղեկություն ցուցիչի տակ եղած հրամանի մասին"
+
+msgid "Get more examples..."
+msgstr "Ներբեռնել նոր օրինակներ"
+
+msgid "HTML documents"
+msgstr "HTML փասթաթղթեր"
+
+msgid "Help"
+msgstr "Տեղեկություն"
+
+msgid "Help on: %1"
+msgstr "Տեղեկություն %1"
+
+msgid "Help: Open manual for KTurtle"
+msgstr "KTurtle օգտվողի ուղեցույց"
+
+msgid "Hide Errors"
+msgstr "Թաքցնել սխալները"
+
+msgid "I cannot do a '!=' without 2 variables"
+msgstr "Անհրաժեշտ է նշել երկու փոփոխական «!=» համեմատության համար"
+
+msgid "I cannot do a '<' without 2 variables"
+msgstr "Անհրաժեշտ է նշել երկու փոփոխական «<» համեմատության համար"
+
+msgid "I cannot do a '<=' without 2 variables"
+msgstr "Անհրաժեշտ է նշել երկու փոփոխական «<=» համեմատության համար"
+
+msgid "I cannot do a '==' without 2 variables"
+msgstr "Անհրաժեշտ է նշել երկու փոփոխական «==» համեմատության համար"
+
+msgid "I cannot do a '>' without 2 variables"
+msgstr "Անհրաժեշտ է նշել երկու փոփոխական «>» համեմատության համար"
+
+msgid "I cannot do a '>=' without 2 variables"
+msgstr "Անհրաժեշտ է նշել երկու փոփոխական «>=» համեմատության համար"
+
+msgid "I need something to do a not on"
+msgstr "Ֆորմատի սխալ"
+
+msgid ""
+"In this list you find the error(s) that resulted from running your code.\n"
+"Good luck!"
+msgstr ""
+"Այստեղ ներկայացված են սխալները, որոնք առաջացել են կոդի իրականացման ընթացքում"
+
+msgid "Initiator and core developer"
+msgstr "Մտահաղացման հեղինակ և գլխավոր  մշակող"
+
+msgid "Input"
+msgstr "Մուտք"
+
+msgid ""
+"Inspector: See information about variables and functions when the program "
+"runs"
+msgstr ""
+"Հսկիչը ծրագրի աշխատանքի ժամանակ տալիս է տեղեկություն փոփոխականների և "
+"ֆունկցիաների մասին։"
+
+msgid "KTurtle"
+msgstr "KTurtle"
+
+msgid ""
+"KTurtle is an educational programming environment that aims to make learning "
+"how to program as easy as possible. To achieve this KTurtle makes all "
+"programming tools available from the user interface. The programming "
+"language used is TurtleScript which allows its commands to be translated."
+msgstr ""
+"KTurtle — ծրագրավորում սովորեցնող միջավայր է, որը նախատեսված է այդ պրոցեսը "
+"ավելի հեշտացնել։ Այդ արդյունքին հասնելու համար բոլոր գործիքները հասանելի են "
+"օգտվողի ինտերֆեյսից։ Ծրագրավորման լեզուն համարվում է TurtleScript, որը թույլ "
+"է տալիս թարքմանել հրամանները։"
+
+msgid "Main Toolbar"
+msgstr "Հիմնական գործիքների "
+
+msgid "Mauricio Piacentini"
+msgstr "Mauricio Piacentini"
+
+msgid "Message"
+msgstr "Հաղորդագրություն"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Դավիթ Նիկողոսյան"
+
+msgid "New File: Create a new file"
+msgstr "Նոր նիշք։ Ստեղծել նոր նիշք"
+
+msgid "Niels Slot"
+msgstr "Niels Slot"
+
+msgid "No errors occurred yet."
+msgstr "Սխալներ դեռ չեն հայտնաբերվել"
+
+msgid "No learned functions"
+msgstr "Չկան ուսումնասիրված ֆունկցիաներ"
+
+msgid "No variables"
+msgstr "Չկան փոփոխականներ"
+
+msgid "None"
+msgstr "չկա"
+
+msgid "Open"
+msgstr "Բացել"
+
+msgid "Open File: Open an existing file"
+msgstr "Բացել նիշքը։ Բացել եղած նիշքը"
+
+msgid "Open Recent File: Open a recently used file"
+msgstr "Բացել վերջի նիշքը"
+
+msgid "Open a recently used file"
+msgstr "Բացել վերջի նիշքը"
+
+msgid "Open an existing file"
+msgstr "Բացել եղած նիշքը"
+
+msgid "Overwrite Mode"
+msgstr "Փոփոխության ռեժիմ"
+
+msgid "Overwrite Mode: Toggle between the 'insert' and 'overwrite' mode"
+msgstr "Փոփոխության ռեժիմ։ Մուտքագրման և փոփոխության ռեժիմների փոխանջատում"
+
+msgid "PNG Images"
+msgstr "Նկար PNG"
+
+msgid "Paste the clipboard's content into the current selection"
+msgstr "Տեղադրել բուֆերի պարունակությունը նշիչի դիրքում"
+
+msgid "Paste: Paste the clipboard's content into the current selection"
+msgstr "Տեղադրել։ Տեղադրել բուֆերի պարունակությունը նշիչի դիրքում"
+
+msgid "Pause execution"
+msgstr "Դադարեցնել ծրագրի կատարումը"
+
+msgid "Pause: Pause execution"
+msgstr "Դադարեցնել ծրագրի կատարումը"
+
+msgid "Print the canvas"
+msgstr "Տպել կտավի պարունակությունը"
+
+msgid "Print the code"
+msgstr "Տպել կոդը"
+
+msgid "Print: Print the canvas"
+msgstr "Կտավի տպում: Տպել կտավի պարունակությունը"
+
+msgid "Print: Print the code"
+msgstr "Տպել։ Տպել կոդը"
+
+msgid "Quit KTurtle"
+msgstr "Դուրս գալ KTurtle ծրագրից"
+
+msgid "Quit: Quit KTurtle"
+msgstr "Ելք։ Դուրս գալ KTurtle ծրագրից"
+
+msgid "Redo a previously undone change in the editor"
+msgstr "Կրկնել խմբագրիչում վերջին չեղյալ հայտարարած գործողությունը"
+
+msgid "Redo: Redo a previously undone change in the editor"
+msgstr "Կրկնել խմբագրիչում վերջին չեղյալ հայտարարած գործողությունը"
+
+msgid "Run the program at a slow speed"
+msgstr "Կատարել ծրագիրը դանդաղեցված"
+
+msgid "Run the program at a slower speed"
+msgstr "Կատարել ծրագիրը դանդաղ"
+
+msgid "Run the program at full speed"
+msgstr "Կատարել ծրագիրը լրիվ արագությամբ"
+
+msgid "Run the program at full speed, with highlighting and inspector disabled"
+msgstr "Կատարել ծրագիրը լրիվ արագություն, արանց ընդգծման և հսկիչի"
+
+msgid "Run the program at the slowest speed"
+msgstr "Կատարել ծրագիրը շատ դանդաղ"
+
+msgid "Run the program one step at a time"
+msgstr "Կատարել ծրագիրը քայլ առ քայլ"
+
+msgid "Run: Execute the program"
+msgstr "Կատարել։ Կատարել ծրագիրը"
+
+msgid ""
+"Run: Execute the program, or use the drop down menu to select the run speed"
+msgstr ""
+"Կատարել: Կատարել ծրագիրը կամ օգտվել մենյուից կատարման արագությունը ընտրելու "
+"համար"
+
+msgid "Save As"
+msgstr "Պահպանել ինչպես"
+
+msgid "Save File As: Save the current file under a different name"
+msgstr "Պահպանել տվյալ նիշքերը այլ անունով"
+
+msgid "Save File: Save the current file to disk"
+msgstr "Պահպանել նիշքը։ Պահպանել տվյալ նիշքը սկավառակի վրա"
+
+msgid "Save as Picture"
+msgstr "Պահպանել նկարի &տեսքով"
+
+msgid "Save the current file to disk"
+msgstr "Պահպանել տվյալ նիշքը սկավառակի վրա"
+
+msgid "Save the current file under a different name"
+msgstr "Պահպանել տվյալ նիշքը այլ անունով"
+
+msgid "Scalable Vector Graphics"
+msgstr "Վեկտորական նկար SVG"
+
+msgid "Search through the code in the editor"
+msgstr "Որոնում խմբագրիչի մեջ, կոդի միջոցով"
+
+msgid "Select All: Select all the code in the editor"
+msgstr "Նշել։ Նշել խմբագրիչում եղած կոդը ամբողջությամբ"
+
+msgid "Select all the code in the editor"
+msgstr "Նշել խմբագրիչում եղած կոդը ամբողջությամբ"
+
+msgid "Show &Editor"
+msgstr "&Կոդի խմբագրիչ"
+
+msgid "Show &Inspector"
+msgstr "&Հսկիչ"
+
+msgid "Show &Line Numbers"
+msgstr "&Պատկերել տողի համարը"
+
+msgid "Show Code Editor: Show or hide the Code Editor"
+msgstr "Կոդի խմբագրիչ։ Պատկերել կամ թաքցնել կոդի խմբագրիչը"
+
+msgid "Show E&rrors"
+msgstr " &Տեղեկություն սխալների մասին"
+
+msgid "Show Errors: Show or hide the Errors tab"
+msgstr "Տեղեկություն սխալների մասին։ Պատկերել կամ թաքցնել սխալների պատուհանը"
+
+msgid "Show Inspector: Show or hide the Inspector"
+msgstr "Հսկիչ։ Պատկերել կամ թաքցնել հսկիչի պատուհանը"
+
+msgid "Show Line Numbers: Turn the line numbers on/off in the editor"
+msgstr "Պատկերել տողի համարը։ Պատկերել կամ թաքցնել տողի համարը խմբագրիչի մեջ"
+
+msgid "Show or hide the Code Editor"
+msgstr "Պատկերել կամ թաքցնել կոդի խմբագրիչը"
+
+msgid "Show or hide the Errors tab"
+msgstr "Պատկերել կամ թաքցնել սխալների պատուհանը"
+
+msgid "Show or hide the Inspector"
+msgstr "Պատկերել կամ թաքցնել հսկիչի պատուհանը"
+
+msgid "Shows the color picker dialog"
+msgstr "Պատկերել գույնի ընտրության պատուհանը"
+
+msgid "Shows the direction chooser dialog"
+msgstr "Պատկերել ուղղու ընտրության պատուհանը"
+
+msgid "Slow Speed: Run the program at a slow speed"
+msgstr "Դանդաղեցված։ Կատարել ծրագիրը դանդաղեցված"
+
+msgid "Slower Speed: Run the program at a slower speed"
+msgstr "Դանդաղ։ Կատարել ծրագիրը դանդաղ"
+
+msgid "Slowest Speed: Run the program at the slowest speed"
+msgstr "Շատ դանդաղ։ Կատարել ծրագիրը շատ դանդաղ"
+
+msgid ""
+"Specifies the localization language by a language code, defaults to "
+"\"en_US\" (only works in testing mode)"
+msgstr "Ծրագրի լեզուն լռակյաց — «en_US» (միայն տեստավոռման ռեժիմում)"
+
+msgid ""
+"Starts KTurtle in D-Bus mode (without a GUI), good for automated unit test "
+"scripts"
+msgstr ""
+"Թողարկել D-Bus ռեժիմում(առանց գրաֆիկական ինտերֆեյսի), կարելի է օգտագործել "
+"ավտոմատ տեստավորման ժամանակ"
+
+msgid ""
+"Starts KTurtle in testing mode (without a GUI), directly runs the specified "
+"local file"
+msgstr "Թողարկել առանց գրաֆիկական ինտերֆեյսի, տեստավորման ռեժիմում "
+
+msgid "Step Speed: Run the program one step at a time"
+msgstr "Քայլ առ քայլ։ Կատարել ծրագիրը քայլ առ քայլ"
+
+msgid "Stop executing program"
+msgstr "Ընդհատել ծրագրի կատարումը"
+
+msgid "Switch to the %1 dictionary"
+msgstr "Անցնել «%1» բառարանին"
+
+msgid ""
+"Text string was not properly closed, expected a double quote, ' \" ', to "
+"close the string."
+msgstr "Տողը վերջացրած չէ «\"» սիմվոլով"
+
+msgid "The %1 command accepts no parameters."
+msgstr "%1 հրամանը չի պահանջում պարամետրեր"
+
+msgid "The %1 command only accepts a number as its parameter."
+msgstr "%1 հրամանը ստանում է պարամետր միայն թվի տեսքով։"
+
+msgid "The %1 command only accepts a string as its parameter."
+msgstr "%1 հրամանը ստանում է պարամետր միայն տողի տեսքով։"
+
+msgid "The %1 command only accepts an answer as its parameter."
+msgstr "%1 հրամանը որպես պարամետր ընդունում է միայն օգտվողի պատասխանը։"
+
+msgid "The %1 command only accepts answers as its parameters."
+msgstr "%1 հրամանը որպես պարամետրեր ընդունում է միայն օգտվողի պատասխանները։"
+
+msgid "The %1 command only accepts numbers as its parameters."
+msgstr "%1 հրամանը ստանում է պարամետրեր միայն թվի տեսքով։"
+
+msgid "The %1 command only accepts strings as its parameters."
+msgstr "%1 հրամանը ստանում է պարամետրեր միայն տողի տեսքով։"
+
+msgid "The %2 command was called with %3 but needs 1 parameter."
+msgid_plural "The %2 command was called with %3 but needs %1 parameters."
+msgstr[0] " %2 հրամանը կանչվել էր %3 հետ, բայց պահանջում է %1 պարամետր։"
+msgstr[1] " %2 հրամանը կանչվել էր %3 հետ, բայց պահանջում է %1 պարամետրով։"
+msgstr[2] " %2 հրամանը կանչվել էր %3 հետ, բայց պահանջում է %1 պարամետրեր։"
+msgstr[3] " %2 հրամանը կանչվել էր %3 հետ, բայց պահանջում է %1 պարամետր։"
+
+msgid "The %2 command was called with %3 but only accepts 1 parameter."
+msgid_plural ""
+"The %2 command was called with %3 but only accepts %1 parameters."
+msgstr[0] "%2 հրամանը կանչվել է %3 կողմից, բայց ընդունում է միայն %1 պարամետր։"
+msgstr[1] ""
+"%2 հրամանը կանչվել է %3 կողմից, բայց ընդունում է միայն %1 պարամետրով։."
+msgstr[2] ""
+"%2 հրամանը կանչվել է %3 կողմից, բայց ընդունում է միայն %1 պարամետրեր։"
+msgstr[3] "%2 հրամանը կանչվել է %3 կողմից, բայց ընդունում է միայն %1 պարամետր։"
+
+msgid ""
+"The file you try to open is not a valid KTurtle script, or is incompatible "
+"with this version of KTurtle.\n"
+"Cannot open %1"
+msgstr ""
+"Բացվող նիշքը չի պատկանում KTurtle ծրագրին կամ չի համապատասխանում ծրագրի "
+"վերսիային։\n"
+"Հնարավոր չէ բացել «%1» նիշքը"
+
+msgid "The function '%1' is already defined."
+msgstr "«%1»  ֆունկցիան նախօրոք հայտարարված է"
+
+msgid "The function '%1' was called with %2, while it should be called with %3"
+msgstr "«%1» ֆունկցիան կանչվել էր %2 կողմից, բայց պետք է կանչվեր %3 կողմից"
+
+msgctxt ""
+"The function '%1' was called with %2, while it should be called with %3"
+msgid "1 parameter"
+msgid_plural "%1 parameters"
+msgstr[0] "%1 պարամետրով"
+msgstr[1] "%1 պարամետրերով"
+msgstr[2] "%1 պարամետրերով"
+msgstr[3] "%1 պարամետրով"
+
+msgid ""
+"The program you are currently working on is not saved. By continuing you may "
+"lose the changes you have made."
+msgstr ""
+"Տվյալ ծրագրում կատարված փոփոխությունները պահպանված չեն։ Շարունակելու դեպքում "
+"փոփոխությունները չեն պահպանվի։"
+
+msgid "The result of an exponentiation was too large"
+msgstr "Աստիճան բարձրացնելու արդյունքը շատ մեծ է"
+
+msgid "The variable '%1' was used without first being assigned to a value"
+msgstr "%1 փոփոխականը օգտագործվում է մինչև նրան արժեք վերագրելը"
+
+msgid "Toggle between the 'insert' and 'overwrite' mode"
+msgstr "Մուտքագրման և փոփոխության ռեժիմների փոխանջատում"
+
+msgid ""
+"Translates turtle code to embeddable C++ example strings (for developers "
+"only)"
+msgstr "Վերափոխել Կրիայի կոդերը C++ կոդի (միայն տեստավորման ռեժիմում)"
+
+msgid "Tree"
+msgstr "Ծառ"
+
+msgid "Turn the line numbers on/off in the editor"
+msgstr "Պատկերել կամ թաքցնել տողի համարը խմբագրիչի մեջ"
+
+msgid "Turtle code files"
+msgstr "Կրիայի ծրագրի կոդեր"
+
+msgid "Undo a change in the editor"
+msgstr "Չեղյալ հայտարարել խմբագրիչում կատարած գործողությունը"
+
+msgid "Undo: Undo a change in the editor"
+msgstr "Չեղյալ հայտարարել խմբագրիչում կատարած գործողությունը"
+
+msgid "Unsaved File"
+msgstr "Չպահպանված փոփոխություններ"
+
+msgid "Variables"
+msgstr "Փոփոխականներ"
+
+msgid "Write a command here and press enter..."
+msgstr "Մուտքագրեք հրամանը այստեղ և սեղմեք Enter..."
+
+msgid "You cannot put '%1' here."
+msgstr "Չի կարելի օգտագործել «%1» այստեղ։"
+
+msgid "You need one variable and a value or variable to do a '='"
+msgstr "Վերագրման համար «=» պետք է նշել փոփոխական և արտահայտության արժեքը"
+
+msgid "You need two numbers or string to do an addition"
+msgstr "Գումարման համար պետք է նշել երկու թիվ կամ տող "
+
+msgid "You need two numbers to divide"
+msgstr "Բաժանման համար պետք է նշել երկու թիվ"
+
+msgid "You need two numbers to multiplicate"
+msgstr "Բազմապատկման համար պետք է նշել երկու թիվ"
+
+msgid "You need two numbers to raise a power"
+msgstr "Աստիճան բարձրացնելու համար պետք է նշել երկու թիվ"
+
+msgid "You need two numbers to subtract"
+msgstr "Հանման համար պետք է նշել երկու թիվ"
+
+msgid "You tried to divide a non-number, '%1'"
+msgstr "Հնարավոր չէ բաժանել ոչ-թիվ փոփոխականը, «%1»"
+
+msgid "You tried to divide by a non-number, '%1'"
+msgstr "Հնարավոր չէ բաժանել ոչ-թիվ փոփոխականի վրա, «%1»"
+
+msgid "You tried to divide by zero"
+msgstr "Հնարավոր չէ բաժանել զրոյի"
+
+msgid "You tried to multiplicate a non-number, '%1'"
+msgstr "Հնարավոր չէ բազմապատկել ոչ-թիվ փոփոխականը, «%1»"
+
+msgid "You tried to multiplicate by a non-number, '%1'"
+msgstr "Հնարավոր չէ բազմապատկել ոչ-թիվ փոփոխականով, «%1»"
+
+msgid "You tried to raise a non-number to a power, '%1'"
+msgstr "Հնարավոր չէ աստիճան բարձրացնել ոչ-թիվ փոփոխականը, «%1»"
+
+msgid "You tried to raise the power of a non-number, '%1'"
+msgstr "Հնարավոր չէ թիվը բարձրացնել ոչ-թիվ աստիճան, «%1»"
+
+msgid "You tried to subtract a non-number, '%1'"
+msgstr "Հնարավոր չէ հանել ոչ-թիվ փոփոխական, «%1»"
+
+msgid "You tried to subtract from a non-number, '%1'"
+msgstr "Հնարավոր չէ հանել ոչ-թիվ փոփոխականից, «%1»"
+
+msgid "argument separator"
+msgstr "պառամետրերի բաժանիչ"
+
+msgid "assignment"
+msgstr "վերագրում"
+
+msgid "bold"
+msgstr "կիսահաստ"
+
+msgid "boolean"
+msgstr "տրամաբանական"
+
+msgid "boolean operator"
+msgstr "տրամաբանական օպերատոր"
+
+msgid "code"
+msgstr "կոդ"
+
+msgid "command"
+msgstr "հրաման"
+
+msgid "controller command"
+msgstr "կառավարող հրաման"
+
+msgid "description"
+msgstr "բնութագիր"
+
+msgid "expression"
+msgstr "արտահայտություն"
+
+msgid "italic"
+msgstr "շեղ"
+
+msgid "learned command"
+msgstr "մտապահված հրաման"
+
+msgid "line"
+msgstr "տող"
+
+msgid "mathematical operator"
+msgstr "մաթեմատիկական օպերատոր"
+
+msgid "name"
+msgstr "անուն"
+
+msgid "number"
+msgstr "համար"
+
+msgid "overline"
+msgstr "վերգծված"
+
+msgid "parameters"
+msgstr "պառամետրեր"
+
+msgid "parenthesis"
+msgstr "փակագիծ"
+
+msgid "scope"
+msgstr "կոդի բլոկ"
+
+msgid "strikeout"
+msgstr "ընդգծված"
+
+msgid "string"
+msgstr "տող"
+
+msgid "type"
+msgstr "տեսակ"
+
+msgctxt "undefined type of a variable"
+msgid "empty"
+msgstr "դատարկ"
+
+msgid "underline"
+msgstr "ընդգծված"
+
+msgid "untitled"
+msgstr "անանուն"
+
+msgid "value"
+msgstr "արժեք"
+
+# Mod. Custom by vidish
+# Toolbar
+msgid "&Pause"
+msgstr "&Դադար"
+
+# Mod. Custom by vidish based on Կրիա
+# translation model from nairi.education
+
+msgctxt ""
+"You are about to translate the 'And' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "and"
+msgstr "և"
+
+msgctxt ""
+"You are about to translate the 'ArcCos' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "arccos"
+msgstr "arccos"
+
+msgctxt ""
+"You are about to translate the 'ArcSin' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "arcsin"
+msgstr "arcsin"
+
+msgctxt ""
+"You are about to translate the 'ArcTan' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "arctan"
+msgstr "arctg"
+
+msgctxt ""
+"You are about to translate the 'ArgumentSeparator' COMMAND, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid ","
+msgstr ","
+
+msgctxt ""
+"You are about to translate the 'Ask' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "ask"
+msgstr "հարցրու"
+
+msgctxt ""
+"You are about to translate the 'Assert' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "assert"
+msgstr "ստուգիր"
+
+msgctxt ""
+"You are about to translate the 'Backward' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "bw"
+msgstr "bw"
+
+msgctxt ""
+"You are about to translate the 'Backward' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "backward"
+msgstr "հետ"
+
+msgctxt ""
+"You are about to translate the 'Break' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "break"
+msgstr "ընդհատիր"
+
+msgctxt ""
+"You are about to translate the 'CanvasColor' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "cc"
+msgstr "cc"
+
+msgctxt ""
+"You are about to translate the 'CanvasColor' COMMAND, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "canvascolor"
+msgstr "կտավիգույն"
+
+msgctxt ""
+"You are about to translate the 'CanvasSize' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "cs"
+msgstr "cs"
+
+msgctxt ""
+"You are about to translate the 'CanvasSize' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "canvassize"
+msgstr "կտավիչափս"
+
+msgctxt ""
+"You are about to translate the 'Center' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "center"
+msgstr "կենտրոն"
+
+msgctxt ""
+"You are about to translate the 'Clear' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "ccl"
+msgstr "ccl"
+
+msgctxt ""
+"You are about to translate the 'Clear' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "clear"
+msgstr "մաքրիր"
+
+msgctxt ""
+"You are about to translate the 'Cos' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "cos"
+msgstr "cos"
+
+msgctxt ""
+"You are about to translate the 'DecimalSeparator' COMMAND, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "."
+msgstr "."
+
+msgctxt ""
+"You are about to translate the 'Direction' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "dir"
+msgstr "dir"
+
+msgctxt ""
+"You are about to translate the 'Direction' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "direction"
+msgstr "ուղղվիր"
+
+msgctxt ""
+"You are about to translate the 'Else' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "else"
+msgstr "այլապես"
+
+msgctxt ""
+"You are about to translate the 'Exit' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "exit"
+msgstr "ավարտիր"
+
+msgctxt ""
+"You are about to translate the 'False' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "false"
+msgstr "կեղծ"
+
+msgctxt ""
+"You are about to translate the 'FontSize' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "fontsize"
+msgstr "տառաչափ"
+
+msgctxt ""
+"You are about to translate the 'For' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "for"
+msgstr "վասն"
+
+msgctxt ""
+"You are about to translate the 'Forward' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "fw"
+msgstr "fw"
+
+msgctxt ""
+"You are about to translate the 'Forward' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "forward"
+msgstr "առաջ"
+
+msgctxt ""
+"You are about to translate the 'GetDirection' COMMAND, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "getdirection"
+msgstr "ուղղություն"
+
+msgctxt ""
+"You are about to translate the 'GetX' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "getx"
+msgstr "տուրx"
+
+msgctxt ""
+"You are about to translate the 'GetY' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "gety"
+msgstr "տուրy"
+
+msgctxt ""
+"You are about to translate the 'Go' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "go"
+msgstr "գնա"
+
+msgctxt ""
+"You are about to translate the 'GoX' COMMAND ALIAS, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "gx"
+msgstr "gx"
+
+msgctxt ""
+"You are about to translate the 'GoX' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "gox"
+msgstr "գնաx"
+
+msgctxt ""
+"You are about to translate the 'GoY' COMMAND ALIAS, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "gy"
+msgstr "gy"
+
+msgctxt ""
+"You are about to translate the 'GoY' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "goy"
+msgstr "գնաy"
+
+msgctxt ""
+"You are about to translate the 'If' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "if"
+msgstr "եթե"
+
+msgctxt ""
+"You are about to translate the 'Learn' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "learn"
+msgstr "սովորիր"
+
+msgctxt ""
+"You are about to translate the 'Message' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "message"
+msgstr "հաղորդիր"
+
+msgctxt ""
+"You are about to translate the 'Mod' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "mod"
+msgstr "մնացորդ"
+
+msgctxt ""
+"You are about to translate the 'Not' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "not"
+msgstr "ոչ"
+
+msgctxt ""
+"You are about to translate the 'Or' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "or"
+msgstr "կամ"
+
+msgctxt ""
+"You are about to translate the 'PenColor' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "pc"
+msgstr "pc"
+
+msgctxt ""
+"You are about to translate the 'PenColor' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "pencolor"
+msgstr "գրչիգույն"
+
+msgctxt ""
+"You are about to translate the 'PenDown' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "pd"
+msgstr "pd"
+
+msgctxt ""
+"You are about to translate the 'PenDown' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "pendown"
+msgstr "գրիչվար"
+
+msgctxt ""
+"You are about to translate the 'PenUp' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "pu"
+msgstr "pu"
+
+msgctxt ""
+"You are about to translate the 'PenUp' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "penup"
+msgstr "գրիչվեր"
+
+msgctxt ""
+"You are about to translate the 'PenWidth' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "pw"
+msgstr "pw"
+
+msgctxt ""
+"You are about to translate the 'PenWidth' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "penwidth"
+msgstr "գրչիչափս"
+
+msgctxt ""
+"You are about to translate the 'Pi' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "pi"
+msgstr "pi"
+
+msgctxt ""
+"You are about to translate the 'Print' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "print"
+msgstr "տպիր"
+
+msgctxt ""
+"You are about to translate the 'Random' COMMAND ALIAS, there are some rules "
+"on how to translate it.Please see https://edu.kde.org/kturtle/translator.php "
+"to learn how to properly translate it."
+msgid "rnd"
+msgstr "rnd"
+
+msgctxt ""
+"You are about to translate the 'Random' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "random"
+msgstr "պատահական"
+
+msgctxt ""
+"You are about to translate the 'Repeat' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "repeat"
+msgstr "կրկնիր"
+
+msgctxt ""
+"You are about to translate the 'Reset' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "reset"
+msgstr "նորեն"
+
+msgctxt ""
+"You are about to translate the 'Return' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "return"
+msgstr "վերադարձրու"
+
+msgctxt ""
+"You are about to translate the 'Round' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "round"
+msgstr "կլորացրու"
+
+msgctxt ""
+"You are about to translate the 'Sin' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "sin"
+msgstr "sin"
+
+msgctxt ""
+"You are about to translate the 'SpriteHide' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "sh"
+msgstr "sh"
+
+msgctxt ""
+"You are about to translate the 'SpriteHide' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "spritehide"
+msgstr "թաքնվիր"
+
+msgctxt ""
+"You are about to translate the 'SpriteShow' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "ss"
+msgstr "ss"
+
+msgctxt ""
+"You are about to translate the 'SpriteShow' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "spriteshow"
+msgstr "հայտնվիր"
+
+msgctxt ""
+"You are about to translate the 'Sqrt' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "sqrt"
+msgstr "sqrt"
+
+msgctxt ""
+"You are about to translate the 'Step' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "step"
+msgstr "քայլ"
+
+msgctxt ""
+"You are about to translate the 'Tan' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "tan"
+msgstr "tg"
+
+msgctxt ""
+"You are about to translate the 'To' COMMAND, there are some rules on how to "
+"translate it.Please see https://edu.kde.org/kturtle/translator.php to learn "
+"how to properly translate it."
+msgid "to"
+msgstr "առ"
+
+msgctxt ""
+"You are about to translate the 'True' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "true"
+msgstr "ճիշտ"
+
+msgctxt ""
+"You are about to translate the 'TurnLeft' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "tl"
+msgstr "tl"
+
+msgctxt ""
+"You are about to translate the 'TurnLeft' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "turnleft"
+msgstr "շրջվիրձախ"
+
+msgctxt ""
+"You are about to translate the 'TurnRight' COMMAND ALIAS, there are some "
+"rules on how to translate it.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn how to properly translate it."
+msgid "tr"
+msgstr "tr"
+
+msgctxt ""
+"You are about to translate the 'TurnRight' COMMAND, there are some rules on "
+"how to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "turnright"
+msgstr "շրջվիրաջ"
+
+msgctxt ""
+"You are about to translate the 'Wait' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "wait"
+msgstr "սպասիր"
+
+msgctxt ""
+"You are about to translate the 'While' COMMAND, there are some rules on how "
+"to translate it.Please see https://edu.kde.org/kturtle/translator.php to "
+"learn how to properly translate it."
+msgid "while"
+msgstr "քանիդեռ"
+
+msgctxt ""
+"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn know how to properly translate it."
+msgid "arrow"
+msgstr "սլաք"
+
+msgctxt ""
+"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn know how to properly translate it."
+msgid "curly"
+msgstr "գալարներ"
+
+msgctxt ""
+"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn know how to properly translate it."
+msgid "flower"
+msgstr "ծաղիկ"
+
+msgctxt ""
+"This is an EXAMPLE NAME in KTurtle.Please see https://edu.kde.org/kturtle/"
+"translator.php to learn know how to properly translate it."
+msgid "triangle"
+msgstr "եռանկյուն"
+

@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kdelibs4\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"PO-Revision-Date: 2013-01-31 01:08+0400\n"
+"Last-Translator: Davit <nikdavnik@mail.ru>\n"
+"Language-Team: Armenian Language: hy\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : "
+"n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+msgid "%1 &Handbook"
+msgstr "&Օգտվողի ուղեցույց %1"
+
+msgid "&About %1"
+msgstr "%1 &ծրագրի մասին"
+
+msgid "&Add Bookmark"
+msgstr "&Ավելացնել պահոցի մեջ"
+
+msgid "&Back"
+msgstr "&Հետ"
+
+msgid "&Close"
+msgstr "&Փակել"
+
+msgid "&Copy"
+msgstr "&Կրկնօրինակել"
+
+msgid "&First Page"
+msgstr "&Առաջի էջ"
+
+msgid "&Fit to Page"
+msgstr "&Տեղավորել ամբողջ էջը"
+
+msgid "&Forward"
+msgstr "&Առաջ"
+
+msgid "&Last Page"
+msgstr "&Վերջի էջ"
+
+msgid "&New"
+msgstr "&Նոր"
+
+msgid "&Next Page"
+msgstr "&Հաջորդ էջ"
+
+msgid "&Paste"
+msgstr "&Տեղադրել"
+
+msgid "&Previous Page"
+msgstr "&Նախորդ էջ"
+
+msgid "&Quit"
+msgstr "&Ելք"
+
+msgid "&Save"
+msgstr "&Պահպանել"
+
+msgid "&Undo"
+msgstr "&Չեղյալ համարել "
+
+msgid "&Up"
+msgstr "&Վերև"
+
+msgid "About &KDE"
+msgstr "&KDE-ի մասին"
+
+msgid "C&lear"
+msgstr "&Մաքրել"
+
+msgid "Check spelling in document"
+msgstr "Ստուգել ուղղագրությունը"
+
+msgid "Clear List"
+msgstr "Մաքրել ցանկը"
+
+msgid "Close document"
+msgstr "Փակել"
+
+msgid "Create new document"
+msgstr "Նոր հղում:"
+
+msgid "Cu&t"
+msgstr "&Կտրել"
+
+msgid "Dese&lect"
+msgstr "&Հանել նշվածը"
+
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "nikdavnik@mail.ru"
+
+msgctxt "Encodings menu"
+msgid "Autodetect"
+msgstr "Ավտոմատ որոշում"
+
+msgctxt "Encodings menu"
+msgid "Default"
+msgstr "Լռելյայն"
+
+msgid "F&ull Screen Mode"
+msgstr "&Լրիվ էկրանի ռեժիմ"
+
+msgid "Find &Next"
+msgstr "&Գտնել հաջորդը"
+
+msgid "Find Pre&vious"
+msgstr "&Գտնել նախորդը"
+
+msgid "Fit to Page &Height"
+msgstr "&Էջի բարձրությամբ"
+
+msgid "Fit to Page &Width"
+msgstr "&Էջի լայնությամբ"
+
+msgid "Go back in document"
+msgstr "&Գնալ հետ"
+
+msgid "Go forward in document"
+msgstr "&Գնալ առաջ"
+
+msgid "Go to first page"
+msgstr "Անցնել առաջի էջին"
+
+msgid "Go to last page"
+msgstr "Անցնել վերջի էջին"
+
+msgid "Go to next page"
+msgstr "Անցնել մյուս էջին"
+
+msgid "Go to previous page"
+msgstr "&Նախորդ էջ"
+
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Դավիթ Նիկողոսյան"
+
+msgid "No Entries"
+msgstr "Չկա գրանցումներ"
+
+msgid "Open &Recent"
+msgstr "&Վերջի նիշքերը"
+
+msgid "Paste clipboard content"
+msgstr "Նյութերի վերբեռնում դեպի սերվեր"
+
+msgid "Print Previe&w"
+msgstr "&Նախնական դիտում"
+
+msgid "Print document"
+msgstr "Տպել"
+
+msgid "Quit application"
+msgstr "Դուրս գալ ծրագրից"
+
+msgid "Re&do"
+msgstr "&կրկնել"
+
+msgid "Re&vert"
+msgstr "&Վերականգնել"
+
+msgid "Redo last undone action"
+msgstr "Կատարել հանգանակություն"
+
+msgid "Save document"
+msgstr "Պահպանել փասթաթուղթը"
+
+msgid "Select &All"
+msgstr "&Նշել ամբողջը"
+
+msgid "Select zoom level"
+msgstr "Ընտրել շաբաթը"
+
+msgid "Show &Menubar"
+msgstr "&Պատկերել մենյուն"
+
+msgid "Show &Toolbar"
+msgstr "&Պատկերել գործիքների վահանակը"
+
+msgid "Show Menubar<p>Shows the menubar again after it has been hidden</p>"
+msgstr "Պատկերել մենյուն<p>Կրկին պատկերել մենյուն, այն թաքցնելուց հետո</p>"
+
+msgid "Show St&atusbar"
+msgstr "&Պատկերել իրավիճակի վահանակը"
+
+msgid "Show or hide menubar"
+msgstr "&Պատկերել մենյուն"
+
+msgid "Show or hide statusbar"
+msgstr "Պատկերել իրավիճակի վահանակը"
+
+msgid "Show or hide toolbar"
+msgstr "Պատկերել գործիքների վահանակը"
+
+msgid "What's &This?"
+msgstr "&Ի՞նչ է սա"
+
+msgid "Zoom &In"
+msgstr "&Մեծացնել"
+
+msgid "Zoom &Out"
+msgstr "&Փոքրացնել"
+
+msgctxt "go back"
+msgid "&Back"
+msgstr "&Հետ"
+
+msgctxt "go forward"
+msgid "&Forward"
+msgstr "&Առաջ"
+
+msgctxt "home page"
+msgid "&Home"
+msgstr "&Տուն"
+
+# Mod. Custom by vidish
+# File menu
+msgid "&Open…"
+msgstr "&Բացել…"
+
+msgid "Save &As…"
+msgstr "Պահպանել &իբրև…"
+
+msgid "&Print…"
+msgstr "&Տպել…"
+
+# Edit menu
+msgid "&Find…"
+msgstr "&Որոնել…"
+
